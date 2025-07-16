@@ -1,88 +1,90 @@
-<!--- Profile Header --->
-<h1 align="center">👋 Hi, I'm Noor Ul Ahad</h1>
-<h3 align="center">Full‑Stack Developer • PHP • Laravel • WordPress • Shopify • Custom CMS Solutions</h3>
+<!-- Header -->
+<h1 align="center">👋 Hi, I’m Noor Ul Ahad</h1>
+<h3 align="center">Full‑Stack Developer | PHP • Laravel • WordPress • Shopify • Custom CMS Solutions</h3>
 
----
-
-<!--- Stats and Trophies --->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=noorulahad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://github-profile-trophy.vercel.app/?username=noorulahad" alt="Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=noorulahad&style=flat&color=0e75b6&label=Profile%20Views" alt="Profile Views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=noorulahad&theme=onedark&margin-w=15" alt="Trophies" />
 </p>
 
 ---
 
-## 💼 About Me
-- **Current Projects**  
-  - Custom **WordPress Plugin**: Fetching & displaying property data from Property Finder API.  
-  - **E‑commerce Management System**: Syncing Shopify orders in real-time.  
-  - **Real Estate Platform**: Core‑PHP property management system with custom admin panel.
+## 💼 Projects in Progress
 
-- **Learning**  
-  - **Advanced Laravel**: Queues, broadcasting, RESTful APIs for scalable apps.  
-  - **React & Node.js**: Crafting dynamic, responsive front‑ends and server‑side apps.  
-  - **Python**: Exploring data automation, backend utilities, and scripting.
+- **WordPress Plugin**  
+  Fetch and display dynamic property data from the Property Finder API.
 
-- **Collaboration Interests**  
-  - SaaS platforms featuring scalable web architectures.  
-  - Customized Shopify apps and integrations.  
-  - Open-source projects — especially PHP, Laravel & WordPress ecosystems.
+- **E‑commerce Management**  
+  Real-time Shopify order synchronization system.
 
-- **Seeking Guidance In**  
-  - React & Node.js experts to sharpen full-stack skills.  
-  - Advanced Shopify app architecture, multi-tenant setups, and deep integrations.
+- **Real Estate Platform**  
+  Core-PHP property management with a custom admin dashboard.
 
 ---
 
-## 📌 Skills & Tools
-<p align="left">
-<!-- Grouped for readability -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" /> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" /> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" /> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" alt="Shopify" width="40" />
+## 🎯 Learning & Growth
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" /> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" /> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+| Area        | What I’m Exploring |
+|-------------|---------------------|
+| **Laravel** | Queues, broadcasting, API development |
+| **React / Node.js** | Dynamic front-end & server-side scripting |
+| **Python** | Backend automation, data processing |
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" /> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" />
+---
 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" /> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" /> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" /> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
+## 🤝 Collaboration & Mentorship
+
+- **Open to working on** SaaS platforms, Shopify integrations, PHP/Laravel/WordPress open-source contributions.  
+- **Seeking help with** React/Node.js best practices and advanced Shopify app architecture.
+
+---
+
+## 🛠 Tools & Skills
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />&nbsp;
+  <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
 </p>
 
 ---
 
-## 📫 Reach Me
+## 📫 Connect With Me
+
 - **Email**: [noorulahad15109@gmail.com](mailto:noorulahad15109@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/noorulahad](https://linkedin.com/in/noorulahad)  
-- **Facebook**: [facebook.com/noorulahad675](https://fb.com/noorulahad675)  
+- **Facebook**: [facebook.com/noorulahad675](https://facebook.com/noorulahad675)  
 - **Instagram**: [instagram.com/noorulahad675](https://instagram.com/noorulahad675)
 
 ---
 
-## 🚀 Work Experience
-**Full‑Stack Web Developer** · 3+ Years  
-- Delivered **15+ WordPress sites**, SaaS platforms, and e‑commerce applications.  
-- Specialized in **custom plugins, APIs, and theme development**.  
-- **Freelancing**: Global clientele with timely deliveries and ongoing support.
+## 🧩 Experience & Stats
 
----
+- **Full‑Stack Developer** · 3+ years  
+  - Delivered 15+ WordPress, SaaS & e‑commerce projects.  
+  - Specialized in custom plugins, API integration, themes & open source contributions.  
+- **Freelancer** working with global clients with timely deliveries.
 
-## 💡 Fun Fact / GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noorulahad&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noorulahad" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noorulahad&layout=compact&theme=onedark" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noorulahad&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
 
-**📈 Let’s build something awesome together!**  
-Open to new challenges, collaborations, and knowledge‑sharing.
+## ✅ Let’s Build Together!
+
+I’m eager to collaborate, share insights, and work on exciting web applications.
 
 ---
 
