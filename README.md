@@ -1,34 +1,89 @@
-<h1 align="center">Hi 👋, I'm Noor Ul Ahad</h1>
-<h3 align="center">Full-Stack Developer | Specialized in PHP, Laravel, WordPress, Shopify, and Custom CMS Solutions</h3>
+<!--- Profile Header --->
+<h1 align="center">👋 Hi, I'm Noor Ul Ahad</h1>
+<h3 align="center">Full‑Stack Developer • PHP • Laravel • WordPress • Shopify • Custom CMS Solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noorulahad&label=Profile%20views&color=0e75b6&style=flat" alt="noorulahad" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noorulahad" alt="noorulahad" /></a> </p>
-
-- 🔭 I’m currently working on **Custom WordPress Plugin: Fetching property data from Property Finder API and displaying it dynamically. E-commerce Management System: Integrating Shopify stores for real-time order syncing. Real Estate Website: Core PHP-based dynamic property management system with an admin panel.**
-
-- 🌱 I’m currently learning **Advanced Laravel: Mastering complex features like queues, event broadcasting, and API development for scalable web applications. React: Building dynamic and interactive front-end applications with modern JavaScript frameworks. Node.js: Exploring server-side JavaScript for creating real-time, high-performance applications. Python: Diving into data processing, automation, and backend development for versatile programming solutions.**
-
-- 👯 I’m looking to collaborate on **SaaS Projects: Building scalable web applications for businesses. Shopify Integrations: Custom app development to enhance e-commerce functionalities. Open Source Contributions: Particularly in WordPress and PHP-based projects.**
-
-- 🤝 I’m looking for help with **React & Node.js: Exploring modern JavaScript frameworks for full-stack development. Advanced Shopify App Development: Guidance on creating multi-user Shopify apps.**
-
-- 💬 Ask me about **PHP Development: Custom web applications and dynamic CMS solutions. WordPress Customization: Plugin development and theme customization. Shopify Development: Store setups, custom themes, and real-time integrations.**
-
-- 📫 How to reach me **noorulahad15109@gmail.com**
-
-- 📄 Know about my experiences [Web Development: Over 3 years of experience building custom web applications using PHP, Laravel, WordPress, and Shopify. Projects: Developed 15+ WordPress websites, SaaS applications, and e-commerce solutions. Freelancing: Successfully delivered multiple freelance projects for global clients. Current Work: Creating a real estate platform in Core PHP and connecting e-commerce systems with Shopify.](Web Development: Over 3 years of experience building custom web applications using PHP, Laravel, WordPress, and Shopify. Projects: Developed 15+ WordPress websites, SaaS applications, and e-commerce solutions. Freelancing: Successfully delivered multiple freelance projects for global clients. Current Work: Creating a real estate platform in Core PHP and connecting e-commerce systems with Shopify.)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/noorulahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noorulahad" height="30" width="40" /></a>
-<a href="https://fb.com/noorulahad675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="noorulahad675" height="30" width="40" /></a>
-<a href="https://instagram.com/noorulahad675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noorulahad675" height="30" width="40" /></a>
+<!--- Stats and Trophies --->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=noorulahad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=noorulahad" alt="Trophies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noorulahad&show_icons=true&locale=en&layout=compact" alt="noorulahad" /></p>
+## 💼 About Me
+- **Current Projects**  
+  - Custom **WordPress Plugin**: Fetching & displaying property data from Property Finder API.  
+  - **E‑commerce Management System**: Syncing Shopify orders in real-time.  
+  - **Real Estate Platform**: Core‑PHP property management system with custom admin panel.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noorulahad&" alt="noorulahad" /></p>
+- **Learning**  
+  - **Advanced Laravel**: Queues, broadcasting, RESTful APIs for scalable apps.  
+  - **React & Node.js**: Crafting dynamic, responsive front‑ends and server‑side apps.  
+  - **Python**: Exploring data automation, backend utilities, and scripting.
+
+- **Collaboration Interests**  
+  - SaaS platforms featuring scalable web architectures.  
+  - Customized Shopify apps and integrations.  
+  - Open-source projects — especially PHP, Laravel & WordPress ecosystems.
+
+- **Seeking Guidance In**  
+  - React & Node.js experts to sharpen full-stack skills.  
+  - Advanced Shopify app architecture, multi-tenant setups, and deep integrations.
+
+---
+
+## 📌 Skills & Tools
+<p align="left">
+<!-- Grouped for readability -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" /> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" alt="Shopify" width="40" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" />
+
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" /> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" /> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
+</p>
+
+---
+
+## 📫 Reach Me
+- **Email**: [noorulahad15109@gmail.com](mailto:noorulahad15109@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/noorulahad](https://linkedin.com/in/noorulahad)  
+- **Facebook**: [facebook.com/noorulahad675](https://fb.com/noorulahad675)  
+- **Instagram**: [instagram.com/noorulahad675](https://instagram.com/noorulahad675)
+
+---
+
+## 🚀 Work Experience
+**Full‑Stack Web Developer** · 3+ Years  
+- Delivered **15+ WordPress sites**, SaaS platforms, and e‑commerce applications.  
+- Specialized in **custom plugins, APIs, and theme development**.  
+- **Freelancing**: Global clientele with timely deliveries and ongoing support.
+
+---
+
+## 💡 Fun Fact / GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noorulahad&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noorulahad" alt="Streak Stats" />
+</p>
+
+---
+
+**📈 Let’s build something awesome together!**  
+Open to new challenges, collaborations, and knowledge‑sharing.
+
+---
+
+*Made with ❤️ by Noor Ul Ahad*
